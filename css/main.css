@@ -2002,6 +2002,16 @@ ul.breadcrumb li+li:last-child{
 .tag-cloud a:hover{
     color:#222!important
 }
+.about-cloud{
+    text-align:center
+}
+.about-cloud a{
+    display:inline-block;
+    margin:10px
+}
+.about-cloud a:hover{
+    color:#222!important
+}
 a{
     border-bottom-color:#ccc
 }
