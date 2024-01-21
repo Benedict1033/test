@@ -1148,6 +1148,25 @@ pre .javascript .function,pre .keyword{
     font-weight:400;
     line-height:inherit
 }
+.posts-collapse .post-title1{
+    margin-left:100px;
+    font-size:16px;
+    font-weight:400;
+    line-height:inherit
+}
+.posts-collapse .post-title2{
+    margin-left:170px;
+    font-size:16px;
+    font-weight:400;
+    line-height:inherit
+}
+.posts-collapse .post-title3{
+    margin-left:20px;
+    font-size:16px;
+    font-weight:400;
+    line-height:inherit
+}
+
 .posts-collapse .post-title::after{
     margin-left:3px;
     opacity:.6
